@@ -1,18 +1,13 @@
-# Hi, I'm Franek 👋
+### 💻 About Me
+Full Stack AI Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
 
-### 💻 Who am I?
+### ⚡ I'm currently building
+- **[Ultralink](https://ultralink.bio)** — Live deployed SaaS product - Link website creator for influencers (currently fixing bugs and implementing new features)
+- Full Stack Development Skills, specifially: React, Next.js, Python & Django
+- AI-powered applications & workflow automations with n8n
+- My portfolio further with Full Stack AI projects
 
-Full Stack & AI Automation Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
-
-### 🧠 What am I currently working on?
-
-- Full Stack Development (React, Next.js, Python & Django)
-- AI-powered applications & workflow automation
-- Building personal SaaS projects
-- Continuously improving my portfolio
-
-### 🛠️ Tech Stack
-
+### ⌨️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
@@ -31,11 +26,9 @@ Full Stack & AI Automation Developer with a background in e-commerce, entreprene
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ### 📂 Featured Projects
-
-[![](https://img.shields.io/badge/-📋%20Join-000)](YOUR_JOIN_REPO)
-[![](https://img.shields.io/badge/-🌶️%20El%20Pollo%20Loco-000)](YOUR_POLLO_REPO)
+[![](https://img.shields.io/badge/-📋%20Join-000)](YOUR_JOIN_REPO) <br>
+[![](https://img.shields.io/badge/-🌶️%20El%20Pollo%20Loco-000)](YOUR_POLLO_REPO) <br>
 [![](https://img.shields.io/badge/-🍽️%20Code%20Cuisine-000)](YOUR_CODE_CUISINE_REPO)
 
-### 📬 Get in touch
-
-Visit my portfolio and hit the **Contact** button.
+### 📩 Contact Me
+[![Click here to visit my portfolio & contact me](https://img.shields.io/badge/Click%20here%20to%20visit%20my%20portfolio%20%26%20contact%20me-000000?style=for-the-badge)](https://lvfranek.vercel.app/)
