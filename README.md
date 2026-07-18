@@ -1,7 +1,7 @@
 <h2 data-importer="text" align="left">💻 About Me</h2>
 Full Stack AI Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
 
-### <h2 data-importer="text" align="left">⚡ I'm currently building</h2>
+### <h2 data-importer="text" align="left">⚡ Currently working on</h2>
 - **[Ultralink](https://ultralink.bio)** — Live deployed SaaS product - Link website creator for influencers (currently fixing bugs and implementing new features)
 - Full Stack Development Skills, specifially: React, Next.js, Python & Django
 - AI-powered applications & workflow automations with n8n
