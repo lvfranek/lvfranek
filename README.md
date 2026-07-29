@@ -31,5 +31,5 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=flat-square)
 
-### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects</h2>
+### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects on my website</h2>
 [![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://lvfranek.vercel.app/)
