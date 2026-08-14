@@ -4,7 +4,7 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 ### <h2 data-importer="text" align="left">⚡ Currently working on</h2>
 - **[Ultralink](https://ultralink.bio)** — Live deployed SaaS product - Link website creator for influencers (currently fixing bugs and implementing new features)
 - Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
-- AI-powered applications & workflow automations with n8n
+- AI-powered applications & workflow automations
 - More Full Stack AI projects
 
 ### <h2 data-importer="text" align="left">⌨️ Tech Stack</h2>
