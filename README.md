@@ -2,10 +2,13 @@
 Full Stack AI Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
 
 ### <h2 data-importer="text" align="left">⚡ Currently working on</h2>
-- **[Ultralink](https://ultralink.bio)** — Live deployed SaaS product - Link website creator for influencers (currently fixing bugs and implementing new features)
+- **[Ultralink](https://ultralink.bio)** — Live deployed SaaS product - Link website creator for influencers (currently fixing bugs and implementing new features) -> check it on my portfolio website
 - Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
 - AI-powered applications & workflow automations
 - More Full Stack AI projects
+
+### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects on my website</h2>
+[![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://lvfranek.vercel.app/)
 
 ### <h2 data-importer="text" align="left">⌨️ Tech Stack</h2>
 
@@ -30,6 +33,3 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 ![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=flat-square)
-
-### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects on my website</h2>
-[![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://lvfranek.vercel.app/)
