@@ -8,7 +8,7 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 - More Full Stack AI projects
 
 ### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects on my website</h2>
-[![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://lvfranek.vercel.app/)
+[![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://www.franekkaminski.dev/)
 
 ### <h2 data-importer="text" align="left">⌨️ Tech Stack</h2>
 
