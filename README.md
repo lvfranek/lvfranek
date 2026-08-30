@@ -10,26 +10,13 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 ### <h2 data-importer="text" align="left">⭐ Contact me or check my most important projects on my website</h2>
 [![Click to visit my portfolio & contact me](https://img.shields.io/badge/-Click%20to%20visit%20my%20portfolio%20%26%20contact%20me-000?style=flat-square)](https://www.franekkaminski.dev/)
 
-### <h2 data-importer="text" align="left">⌨️ Tech Stack</h2>
+### <h2 data-importer="text" align="left">⌨️ Favourite Tech</h2>
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&style=flat-square)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=flat-square)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&style=flat-square)
 
 **Backend**
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&style=flat-square)
-![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=FastAPI&style=flat-square)
-
-**Workflow & DevOps**
-![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&style=flat-square)
