@@ -1,23 +1,23 @@
-### <img src="./laptop_1f4bb.webp" width="24" height="24" /> About Me
+<h4><a href="https://www.franekkaminski.dev/">Portfolio &amp; Contact</a>&ensp;<img src="./glowing-star.webp" width="20" height="20" align="top" /></h4>
+
+<h4>About Me&ensp;<img src="./laptop.webp" width="20" height="20" align="top" /></h4>
+
 Full Stack AI Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
 
-### <img src="./glowing-star_1f31f.webp" width="24" height="24" /> Portfolio & Contact
-[![Visit my portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-000?style=flat-square)](https://www.franekkaminski.dev/)
+<h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
-### <img src="./high-voltage_26a1.webp" width="24" height="24"/> Currently working on
 - **[Ultralink](https://ultralink.bio)** — Live SaaS: Link-in-bio website builder for influencers (see portfolio for details)
 - Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
 - AI-powered applications & workflow automations
 - More Full Stack AI projects
 
+<h4>Favourite Tech&ensp;<img src="./keyboard.webp" width="20" height="20" align="top" /></h4>
 
-### <img src="./keyboard_2328-fe0f.webp" width="24" height="24" /> Favourite Tech
+<strong>Frontend</strong>&ensp;
+<img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=flat&logo=typescript&logoColor=white" align="top" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-2b2b2b?style=flat&logo=react&logoColor=white" align="top" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-2b2b2b?style=flat&logo=nextdotjs&logoColor=white" align="top" alt="Next.js" />
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=flat-square)
-![React](https://img.shields.io/badge/-React-000?&logo=React&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&style=flat-square)
-
-**Backend**
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&style=flat-square)
+<strong>Backend</strong>&ensp;
+<img src="https://img.shields.io/badge/Supabase-2b2b2b?style=flat&logo=supabase&logoColor=white" align="top" alt="Supabase" />
+<img src="https://img.shields.io/badge/Vercel-2b2b2b?style=flat&logo=vercel&logoColor=white" align="top" alt="Vercel" />
