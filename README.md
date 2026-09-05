@@ -9,7 +9,6 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 - **[Ultralink](https://ultralink.bio)** — Live SaaS: Link-in-bio website builder for influencers (see portfolio for details)
 - Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
 - AI-powered applications & workflow automations
-- More Full Stack AI projects
 
 <h4>Favourite Tech&ensp;<img src="./keyboard.webp" width="20" height="20" align="top" /></h4>
 
