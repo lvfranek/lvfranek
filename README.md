@@ -1,4 +1,4 @@
-<h4><a href="https://www.franekkaminski.dev/">Portfolio &amp; Contact</a>&ensp;<img src="./glowing-star.webp" width="20" height="20" align="top" /></h4>
+<h4><a href="https://www.franekkaminski.dev/" target="_blank" rel="noopener noreferrer">Portfolio &amp; Contact</a>&ensp;<img src="./glowing-star.webp" width="20" height="20" align="top" /></h4>
 
 <h4>About Me&ensp;<img src="./laptop.webp" width="20" height="20" align="top" /></h4>
 
@@ -6,7 +6,7 @@ Full Stack AI Developer with a background in e-commerce, entrepreneurship and co
 
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
-- **[Ultralink](https://ultralink.bio)** — Live SaaS: Link-in-bio website builder for influencers (see portfolio for details)
+- **<a href="https://ultralink.bio" target="_blank" rel="noopener noreferrer">Ultralink</a>** — Live SaaS: Link-in-bio website builder for influencers (see portfolio for details)
 - Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
 - AI-powered applications & workflow automations
 
