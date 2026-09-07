@@ -2,7 +2,7 @@
 
 <h4>About Me&ensp;<img src="./laptop.webp" width="20" height="20" align="top" /></h4>
 
-Full Stack AI Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
+Full Stack Developer with a background in e-commerce, entrepreneurship and consulting. I enjoy building modern web applications, AI-powered workflows and digital products that solve real business problems.
 
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
