@@ -6,8 +6,8 @@ Full Stack Developer with a background in e-commerce, entrepreneurship and consu
 
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
-- **<a href="https://ultralink.bio" target="_blank" rel="noopener noreferrer">Ultralink</a>** — Live SaaS: Link-in-bio website builder for influencers (see portfolio for details)
-- Full Stack Development Skills, specifially: React, Next.js, Supabase, PostgreSQL
+- Code quality
+- Full Stack Development Skills
 - AI-powered applications & workflow automations
 
 <h4>Favourite Tech&ensp;<img src="./keyboard.webp" width="20" height="20" align="top" /></h4>
