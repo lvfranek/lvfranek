@@ -7,6 +7,8 @@ Full Stack Developer with a background in e-commerce, entrepreneurship and consu
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
 * Code quality
+* CI / CD / Testing
+* Security
 * Expanding my frontend projects with Django backends.
 
 <h4>Favourite Tech&ensp;<img src="./keyboard.webp" width="20" height="20" align="top" /></h4>
