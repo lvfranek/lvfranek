@@ -2,7 +2,7 @@
 
 <h4>About Me&ensp;<img src="./laptop.webp" width="20" height="20" align="top" /></h4>
 
-Full Stack Developer. I work with modern web applications, AI, and automations, turning them into digital products that combine functionality with good design.
+Full Stack Developer. I create modern web applications that solve real business problems. I work with modern frameworks, automations and AI to build products that combine functionality with good design.
 
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
