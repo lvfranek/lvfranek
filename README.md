@@ -7,7 +7,7 @@ Full Stack Developer. I create modern web applications that solve real business 
 <h4>Currently working on&ensp;<img src="./high-voltage.webp" width="20" height="20" align="top" /></h4>
 
 * Code quality
-* CI / CD / Testing
+* Node.js
 * Security
 * Expanding frontend projects with Django backends
 
